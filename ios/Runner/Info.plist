@@ -45,5 +45,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<!-- Reversed client ID from Google Cloud Console -->
+				<string>com.googleusercontent.apps.1036507918633-0u18fkt06uqe2t749o2l4klqov35l3fh</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
