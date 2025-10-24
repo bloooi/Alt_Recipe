@@ -8,7 +8,11 @@
       "Bash(git init:*)",
       "mcp__github__create_repository",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Flutter project setup with Supabase integration plan\n\n- Set up Flutter project structure\n- Configure Android (package: blue.lemon.alt_recipe)\n- Add debug keystore SHA fingerprints for Google OAuth\n- Document Supabase and Google OAuth setup requirements\n- Add project instructions in CLAUDE.md\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Flutter project setup with Supabase integration plan\n\n- Set up Flutter project structure\n- Configure Android (package: blue.lemon.alt_recipe)\n- Add debug keystore SHA fingerprints for Google OAuth\n- Document Supabase and Google OAuth setup requirements\n- Add project instructions in CLAUDE.md\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)"
     ],
     "deny": [],
     "ask": []
